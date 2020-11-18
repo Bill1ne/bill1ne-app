@@ -1,0 +1,58 @@
+{
+  "name": "Bill1ne: Node.js",
+  "description": "Bill1ne simple cloud billing application",
+  "repository": "https://github.com/Bill1ne/bill1ne-app",
+  "env": {
+    "SERVER_URL": {
+      "description": "URL for your app",
+      "value": ""
+    },
+    "SERVER_NAME": {
+      "description": "Server Name",
+      "value": ""
+    },
+    "MONGODB_URI": {
+      "description": "MongoDB url where server can connect",
+      "value": ""
+    },
+    "WEB_TOKEN": {
+      "description": "Webtoken used for password and token encryption",
+      "value": ""
+    },
+    "ADMIN_ID": {
+      "description": "ID for admin user (default will be 9999)",
+      "value": "9999",
+      "required": false
+    },
+    "ADMIN_EMAIL": {
+      "description": "Admin user email",
+      "value": ""
+    },
+    "ADMIN_FULL_NAME": {
+      "description": "Admin user fullname",
+      "value": ""
+    },
+    "ADMIN_MOBILE_NUMBER": {
+      "description": "Admin user mobile number",
+      "value": ""
+    },
+    "ADMIN_PASSWORD": {
+      "description": "Admin user password",
+      "value": ""
+    },
+    "ADMIN_GENDER": {
+      "description": "Admin user gender (male/female)",
+      "value": "male"
+    },
+    "EMAIL_SERVER_API_KEY": {
+      "description": "Maigun email server API key (if available)",
+      "value": "",
+      "required": false
+    },
+    "EMAIL_SERVER_DOMAIN": {
+      "description": "Email server domain (if available)",
+      "value": "",
+      "required": false
+    }
+  }
+}

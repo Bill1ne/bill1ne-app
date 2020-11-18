@@ -1,0 +1,9 @@
+{
+  "name": "bill1ne-app",
+  "version": "0.9.1",
+  "description": "Bill1ne simple cloud billing application",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Jagades Arjun",
+  "license": "ISC"
+}
