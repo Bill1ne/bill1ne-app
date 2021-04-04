@@ -2,6 +2,7 @@
   "name": "Bill1ne: Node.js",
   "description": "Bill1ne simple cloud billing application",
   "repository": "https://github.com/Bill1ne/bill1ne-app",
+  "stack": "heroku-20",
   "env": {
     "SERVER_URL": {
       "description": "URL for your app",
