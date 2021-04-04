@@ -1,4 +1,4 @@
-# Bill1ne App (v0.9.0-beta)
+# Bill1ne App (v1.0)
 Bill1ne simple cloud billing application
 
 ### Prerequisites:
